@@ -37,8 +37,8 @@
         "command": "-workbench.action.navigateBack"
     },
     {
-        "key": "ctrl+right",
-        "command": "workbench.action.navigateForward"
+      "key": "ctrl+shift+oem_minus",
+      "command": "workbench.action.navigateForward"
     },
     {
         "key": "alt+right",
